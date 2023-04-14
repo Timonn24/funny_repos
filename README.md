@@ -1,0 +1,1 @@
+This is a repo contains code for resolving tricky tasks from LeetCode.
